@@ -901,20 +901,7 @@ Feladata:
 
 A backend rétegzett felépítést követ.
 
-Javasolt mappastruktúra:
 
-Backend/
-- config/
-- controllers/
-- middleware/
-- models/
-- routes/
-- services/
-- validators/
-- uploads/
-- server.js
-
-A route-ok kezelik a HTTP-kéréseket, a controllerek a műveletek vezérlését, a modellek pedig az adatbázis-műveleteket.
 
 ## 8.3. Adatbázis – MySQL
 
